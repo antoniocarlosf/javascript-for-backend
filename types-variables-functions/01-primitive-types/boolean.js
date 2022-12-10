@@ -6,5 +6,5 @@ const b = firstNumber !== secondNumber !== thirdNumber;
 
 console.log([
     `Numbers are equals: ${a}`,
-    `Numbers are not equals: ${b}`
+    `Numbers are NOT equals: ${b}`
 ]);
